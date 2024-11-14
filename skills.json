@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Professional",
+        "icon": "./assets/images/skills/company.png"
+    },
+    {
+        "name": "HRIS",
+        "icon": "./assets/images/skills/hris.png"
+    },
+    {
+        "name": "Payroll",
+        "icon": "./assets/images/skills/payroll.png"
+    },
+    {
+        "name": "Operations",
+        "icon": "./assets/images/skills/admin.png"
+    },
+    {
+        "name": "Office",
+        "icon": "./assets/images/skills/office.png"
+    },
+    {
+        "name": "ERP",
+        "icon": "./assets/images/skills/erp.png"
+    },
+    {
+        "name": "YouTube",
+        "icon": "./assets/images/skills/youtube.png"
+    },
+    {
+        "name": "Optimization",
+        "icon": "./assets/images/skills/seo.png"
+    },
+    {
+        "name": "Promotion",
+        "icon": "./assets/images/skills/promotion.png"
+    },
+    {
+        "name": "Keyword",
+        "icon": "./assets/images/skills/Keyword.png"
+    },
+    {
+        "name": "Engagement",
+        "icon": "./assets/images/skills/engagement.png"
+    },
+    {
+        "name": "Evaluation",
+        "icon": "./assets/images/skills/evaluation.png"
+    },
+    {
+        "name": "Data",
+        "icon": "./assets/images/skills/data.png"
+    },
+    {
+        "name": "Record",
+        "icon": "./assets/images/skills/data-record.png"
+    },
+    {
+        "name": "Formating",
+        "icon": "./assets/images/skills/formating.png"
+    },
+    {
+        "name": "Analysis",
+        "icon": "./assets/images/skills/data-analysis.png"
+    },
+    {
+        "name": "Visualization",
+        "icon": "./assets/images/skills/visualization.png"
+    },
+    {
+        "name": "Report",
+        "icon": "./assets/images/skills/report.png"
+    },
+    {
+        "name": "Creative",
+        "icon": "./assets/images/skills/creative.png"
+    },
+    {
+        "name": "Illustrator",
+        "icon": "./assets/images/skills/Illustrator.png"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "./assets/images/skills/photoshop.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "./assets/images/skills/canva.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "./assets/images/skills/figma.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "./assets/images/skills/powerbi.png"
+    }  
+]
